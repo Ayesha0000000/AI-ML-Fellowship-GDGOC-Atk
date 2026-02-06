@@ -20,4 +20,5 @@ It includes attributes such as passenger age, gender, class, fare, and survival 
 ##  Summary
 This notebook performs exploratory data analysis to identify patterns and trends related to passenger survival.
 Visualizations are used to analyze survival based on gender, passenger class, and age.
+This is my final week 2 task completed 
 
