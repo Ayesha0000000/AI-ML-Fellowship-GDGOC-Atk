@@ -6,8 +6,8 @@
 <br/>
 
 <!-- BADGES ROW 1 -->
-<img src="https://img.shields.io/badge/Status-Completed%20%E2%9C%94-22c55e?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Duration-8%20Weeks-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Status-Pending%20%E2%9C%94-22c55e?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Duration-3%20Months-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Projects-6%20Built-38bdf8?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Fellowship-GDGOC%20ATK-f97316?style=for-the-badge&labelColor=0f0c29"/>
 
