@@ -1,8 +1,7 @@
-<div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20%2F%20ML%20Fellowship%202026&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=GDGOC%20Attock%20%E2%80%A2%20From%20Zero%20to%20ML%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa&animation=twinkling"/>
-
+**AI-ML Fellowship — GDGOC Attock 2026**
+**AI / ML & Data Science Fellowship Journey**
+**Python • Machine Learning • Deep Learning • Real-World Projects**
 <br/>
 
 <!-- BADGES ROW 1 -->
