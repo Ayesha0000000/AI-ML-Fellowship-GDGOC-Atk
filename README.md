@@ -1,7 +1,7 @@
-
+<center>
 **AI-ML Fellowship — GDGOC Attock 2026**
 **AI / ML & Data Science Fellowship Journey**
-**Python • Machine Learning • Deep Learning • Real-World Projects**
+**Python • Machine Learning • Deep Learning • Real-World Projects** </center>
 <br/>
 
 <!-- BADGES ROW 1 -->
