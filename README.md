@@ -1,12 +1,8 @@
-<center>
-**AI-ML Fellowship — GDGOC Attock 2026**
-**AI / ML & Data Science Fellowship Journey**
-**Python • Machine Learning • Deep Learning • Real-World Projects** </center>
-<br/>
+<div align="center">
 
 <!-- BADGES ROW 1 -->
-<img src="https://img.shields.io/badge/Status-Pending%20%E2%9C%94-22c55e?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Duration-3%20Months-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Status-Completed%20%E2%9C%94-22c55e?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Duration-8%20Weeks-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Projects-6%20Built-38bdf8?style=for-the-badge&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/Fellowship-GDGOC%20ATK-f97316?style=for-the-badge&labelColor=0f0c29"/>
 
@@ -282,10 +278,4 @@ Variables   Automation      Regression       Neural Nets
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
