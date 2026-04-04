@@ -21,29 +21,28 @@
 
 ---
 
-## 🧠 What Is This?
+## What Is This?
 
-> **This repository is my complete AI/ML learning journey** documented across 8 weeks of the **GDGOC ATK AI-ML Fellowship 2026** — a structured program that took me from Python fundamentals all the way to building and evaluating deep learning models.
+> **This repository is my complete AI/ML learning journey** documented across the **GDGOC ATK AI-ML Fellowship 2026** — a 3-month structured program that took me from Python fundamentals all the way to building a full-stack AI healthcare application.
 
 Every folder here represents a real week of work — assignments, experiments, mini-projects, and the lessons I learned by doing. This is not just code; it's a record of growth.
 
 ---
 
-## 🗺️ Journey Overview
+## Journey Overview
 
 ```
-WEEK 1 ──▶ WEEK 2 ──▶ WEEK 3-4 ──▶ WEEK 5 ──▶ WEEK 6 ──▶ WEEK 7 ──▶ WEEK 8
-Python      EDA         IoT Team     ML Models   Regression  Clustering   Deep
-Basics      Titanic     Project      & Eval      Housing     MBA          Learning
-  🐍          📊          🌱            🤖           🏠           🛒           🧬
+WEEK 1 → WEEK 2 → WEEK 3-4 → WEEK 5 → WEEK 6 → WEEK 7 → WEEK 8 → WEEK 9 → FINAL PROJECT
+Python    EDA      IoT Team   ML       Regression Clustering Deep     Gen AI   SAHARA
+Basics    Titanic  Project    Models   Housing    MBA        Learning  & LLMs   (4 Weeks)
 ```
 
 ---
 
-## 📅 Weekly Breakdown
+## Weekly Breakdown
 
 <details>
-<summary><b>🐍 Week 1 — Python Foundations</b></summary>
+<summary><b>Week 1 — Python Foundations</b></summary>
 
 ### Core Concepts Covered
 | Topic | Details |
@@ -60,7 +59,7 @@ Basics      Titanic     Project      & Eval      Housing     MBA          Learni
 ---
 
 <details>
-<summary><b>📊 Week 2 — Exploratory Data Analysis (Titanic Dataset)</b></summary>
+<summary><b>Week 2 — Exploratory Data Analysis (Titanic Dataset)</b></summary>
 
 ### What I Did
 - Loaded and inspected the classic Titanic dataset
@@ -79,7 +78,7 @@ Basics      Titanic     Project      & Eval      Housing     MBA          Learni
 ---
 
 <details>
-<summary><b>🌱 Week 3 & 4 — Automated Plant Watering System (Team Project)</b></summary>
+<summary><b>Week 3 & 4 — Automated Plant Watering System (Team Project)</b></summary>
 
 ### Project Overview
 Designed and implemented a **logic-based automated plant watering system** as part of a team challenge.
@@ -99,14 +98,14 @@ Designed and implemented a **logic-based automated plant watering system** as pa
 ---
 
 <details>
-<summary><b>🤖 Week 5 — Machine Learning & Model Evaluation</b></summary>
+<summary><b>Week 5 — Machine Learning & Model Evaluation</b></summary>
 
 ### Topics Covered
 
 **Algorithms:**
-- ✅ Logistic Regression (classification)
-- ✅ Data preprocessing pipelines
-- ✅ Train/test split strategies
+- Logistic Regression (classification)
+- Data preprocessing pipelines
+- Train/test split strategies
 
 **Model Evaluation Metrics:**
 
@@ -118,16 +117,16 @@ Designed and implemented a **logic-based automated plant watering system** as pa
 | **F1-Score** | Harmonic balance of precision & recall |
 
 **Key Concepts:**
-- 🔴 Overfitting — model memorizes training data
-- 🔵 Underfitting — model too simple to learn
-- ⚖️ Bias-Variance Tradeoff
+- Overfitting — model memorizes training data
+- Underfitting — model too simple to learn
+- Bias-Variance Tradeoff
 
 </details>
 
 ---
 
 <details>
-<summary><b>🏠 Week 6 — Housing Price Prediction (Regression)</b></summary>
+<summary><b>Week 6 — Housing Price Prediction (Regression)</b></summary>
 
 ### Objective
 Build a regression model to predict house prices based on features like size, location, and number of rooms.
@@ -150,7 +149,7 @@ Raw Data → Feature Selection → Train/Test Split → Model Training → Evalu
 ---
 
 <details>
-<summary><b>🛒 Week 7 — Market Basket Analysis (Unsupervised Learning)</b></summary>
+<summary><b>Week 7 — Market Basket Analysis (Unsupervised Learning)</b></summary>
 
 ### What Is Market Basket Analysis?
 A technique used by retailers to discover which products are frequently bought together — the engine behind *"Customers also bought..."*
@@ -170,7 +169,7 @@ A technique used by retailers to discover which products are frequently bought t
 ---
 
 <details>
-<summary><b>🧬 Week 8 — Deep Learning Fundamentals</b></summary>
+<summary><b>Week 8 — Deep Learning Fundamentals</b></summary>
 
 ### Concepts Explored
 
@@ -181,11 +180,11 @@ Input Layer → Hidden Layers → Output Layer
 ```
 
 **Topics Covered:**
-- 🧠 Perceptron and neural network architecture
-- 🔁 Forward propagation
-- 🔙 Backpropagation and gradient descent
-- ⚡ Activation functions (ReLU, Sigmoid, Softmax)
-- 📉 Loss functions and optimization
+- Perceptron and neural network architecture
+- Forward propagation
+- Backpropagation and gradient descent
+- Activation functions (ReLU, Sigmoid, Softmax)
+- Loss functions and optimization
 
 **Applications Explored:** Image classification, pattern recognition, sequential data modeling.
 
@@ -193,9 +192,43 @@ Input Layer → Hidden Layers → Output Layer
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary><b>Week 9 — Generative AI & LLMs Sprint</b></summary>
 
-<div align="center">
+**Duration:** 1 Week + Optional 1 Week Extension  
+**Method:** Use → Improve → Understand → Build
+
+### Topics Covered
+
+**GAN Fundamentals**
+- Simple GAN Implementation — built a basic GAN from scratch, understanding the Generator vs Discriminator training loop
+- GANs for Image Generation — trained GAN on image datasets to generate realistic new images
+- Data Augmentation using GANs — used GANs to synthetically expand training data for better model performance
+
+**LLMs & Retrieval**
+- Working with Large Language Models — learned how to load, prompt, and interact with LLMs effectively
+- RAG-based Applications — built a retrieval pipeline using LlamaIndex that fetches relevant documents and feeds them to an LLM for accurate, context-aware answers
+
+### Task
+[Sprint Colab Notebook](https://colab.research.google.com/drive/15vxLd-C3OIDuLGT4vXnMeqc1veUUuRld?usp=sharing)
+
+</details>
+
+---
+
+## Final Project — SAHARA (4 Weeks)
+
+**SAHARA – Smart AI Healthcare Assistance & Rapid Aid**
+
+A 1-month capstone project built for Attock, combining everything learned across the fellowship into a real-world AI-powered healthcare platform.
+
+> No unified AI-powered healthcare platform existed for rural Pakistan. SAHARA solves this by combining symptom-based AI diagnosis, emergency navigation, and appointment booking in one place.
+
+**GitHub Repo:** [SAHARA on GitHub](https://github.com/Ayesha0000000/SAHARA-Smart-AI-Healthcare-Assistance-RapidAid)
+
+---
+
+## Tech Stack
 
 | Layer | Tools |
 |-------|-------|
@@ -206,68 +239,54 @@ Input Layer → Hidden Layers → Output Layer
 | **Environment** | Jupyter Notebook |
 | **Deep Learning** | Neural Networks (from scratch + frameworks) |
 
-</div>
-
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-📦 AI-ML-Fellowship-GDGOC-Atk
+AI-ML-Fellowship-GDGOC-Atk
 │
-├── 📂 Week-1_Python-Basics/
-│   └── fundamentals, loops, functions, logic programs
-│
-├── 📂 Week-2_Titanic-EDA/
-│   └── EDA notebook, visualizations, insights
-│
-├── 📂 Week-3-4_Plant-Watering-System/
-│   └── system logic, automation code, team notes
-│
-├── 📂 Week-5_Machine-Learning/
-│   └── logistic regression, preprocessing, evaluation
-│
-├── 📂 Week-6_Housing-Price-Prediction/
-│   └── regression model, feature selection, metrics
-│
-├── 📂 Week-7_Market-Basket-Analysis/
-│   └── association rules, apriori, pattern mining
-│
-└── 📂 Week-8_Deep-Learning/
-    └── neural networks, backpropagation, experiments
+├── Week-1_Python-Basics/
+├── Week-2_Titanic-EDA/
+├── Week-3-4_Plant-Watering-System/
+├── Week-5_Machine-Learning/
+├── Week-6_Housing-Price-Prediction/
+├── Week-7_Market-Basket-Analysis/
+├── Week-8_Deep-Learning/
+├── Week-9_Generative-AI-LLMs/
+└── Final-Project_SAHARA/
 ```
 
 ---
 
-## 🏆 Key Learning Outcomes
+## Key Learning Outcomes
 
 ```
-✦ Strong Python foundation for data science
-✦ EDA skills — turning raw data into insights
-✦ End-to-end ML pipeline: data → model → evaluation
-✦ Understanding of classification and regression
-✦ Unsupervised learning and pattern discovery
-✦ Introduction to neural networks and deep learning
-✦ Real-world teamwork and project collaboration
-```
-
----
-
-## 📈 Growth Curve
-
-```
-Beginner ──────────────────────────────────── Practitioner
-   │                                                │
-Week 1        Week 4           Week 6          Week 8
-Python      Team Project    ML Models +      Deep Learning
-Variables   Automation      Regression       Neural Nets
-   │                                                │
-   └────────────── 8 Weeks of Growth ──────────────┘
+Strong Python foundation for data science
+EDA skills — turning raw data into insights
+End-to-end ML pipeline: data → model → evaluation
+Understanding of classification and regression
+Unsupervised learning and pattern discovery
+Introduction to neural networks and deep learning
+Generative AI — GANs and RAG-based LLM applications
+Real-world full-stack AI project from scratch
 ```
 
 ---
 
-## 🤝 Connect
+## Growth Curve
+
+```
+Beginner ──────────────────────────────────────────── Practitioner
+   │                                                        │
+Week 1     Week 4      Week 6      Week 8     Week 9    Final Project
+Python   Team Project  ML Models  Deep       Gen AI     SAHARA App
+Basics   Automation   Regression  Learning   & LLMs     (4 Weeks)
+   │                                                        │
+   └──────────────── 3 Months of Growth ───────────────────┘
+```
+
+---
 
 <div align="center">
 
